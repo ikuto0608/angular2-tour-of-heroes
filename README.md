@@ -1,4 +1,5 @@
 # angular2-tour-of-heroes
 
-npm install
-npm start
+#Get Started
+1. `npm install`
+2. `npm start`
